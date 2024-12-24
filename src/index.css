@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* src/index.css */
+.navbar {
+  background-color: #4CAF50; /* Ganti dengan warna yang diinginkan */
+}
+
+.navbar-item {
+  color: white;
+  font-weight: bold;
+}
+
+.navbar-item:hover {
+  background-color: #45a049;
+  color: white;
+}
+
+.navbar-item:active {
+  color: #ffeb3b; /* Warna kuning ketika aktif */
+}
+
+.container {
+  margin-top: 20px;
+}
+
+h1.title {
+  color: #4CAF50;
+  text-align: center;
+}

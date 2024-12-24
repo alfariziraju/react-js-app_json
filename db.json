@@ -1,0 +1,40 @@
+{
+  "route1": [
+    {
+      "success": true,
+      "message": "route1",
+      "data": [],
+      "id": "00db"
+    }
+  ],
+  "route2": [
+    {
+      "success": true,
+      "message": "route2",
+      "data": [],
+      "id": "61fd"
+    }
+  ],
+  "products": [
+    {
+      "title": "Mango",
+      "price": "8000",
+      "id": "3"
+    },
+    {
+      "title": "Guava",
+      "price": "12000",
+      "id": "4"
+    },
+    {
+      "title": "Grapes",
+      "price": "15000",
+      "id": "5"
+    },
+    {
+      "title": "Guava",
+      "price": "10000",
+      "id": "f576"
+    }
+  ]
+}
